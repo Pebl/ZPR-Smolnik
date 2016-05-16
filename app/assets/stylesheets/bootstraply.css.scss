@@ -1,0 +1,14 @@
+
+
+$body-bg: #fa9fb9;
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 25%;
+  padding: 15px;
+  width: auto;
+}
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
